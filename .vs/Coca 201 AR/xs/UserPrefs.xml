@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{56477FBB-FF41-20CF-20D8-57DCA7F003D3}|">
+  <MonoDevelop.Ide.ItemProperties.VuforiaEditorScripts PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/Vuforia/ForPrint/ModelTarget/readme_3dprint.txt">
+    <Files>
+      <File FileName="Assets/Editor/Vuforia/ForPrint/ModelTarget/readme_3dprint.txt" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
